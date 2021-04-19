@@ -1,4 +1,4 @@
-# Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui) and Typescript
+# APY Vision Take-Home assignment with [chakra-ui](https://github.com/chakra-ui/chakra-ui) and Typescript
 
 This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app with typescript.
 
